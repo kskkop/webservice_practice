@@ -131,7 +131,7 @@ if(!empty($_POST)){
   <head>
     <meta charset="utf-8">
     <title>ユーザー登録 | WEBUKATU MARKET</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
   </head>
 
